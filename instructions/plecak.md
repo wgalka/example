@@ -185,8 +185,8 @@ import java.util.Arrays;
 public class Main {
     static int[] comb; //w tej zmiennej będą przechowywane kombinacje
 
-    final static int[][] przedmioty = {{6, 2, 3, 2, 3}, // objetości
-                                       {6, 4, 5, 7, 10}};//wartości
+    final static int[][] przedmioty = { {6, 2, 3, 2, 3}, // objetości
+                                       {6, 4, 5, 7, 10} };//wartości
     final static int pojPlecak = 23;
 
     static int[] ostatecznePrzedmioty;
