@@ -1,5 +1,6 @@
 # AiSD
 
+## Problem Plecakowy
 |        i|0 |1 |2 |3 |4 | 
 |---------|--|--|--|--|--|
 |Objetość |6 |2 |3 |2 |3 |
@@ -234,3 +235,5 @@ public class Main {
     }
 }
 ```
+
+## Problem wydawania reszty
