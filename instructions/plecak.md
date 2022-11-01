@@ -76,6 +76,8 @@ public class Task1 {
 ### Task 2
 Jak widać w poprzednim przykładzie generowanie kombinacji wykonać można przez wywołanie zagnieżdzonych pętli for. Teraz trzeba znaleźć sposób na generowanie n pętli for wewnątrz. Można to osiągnąć np za pomocą rekurencji.
 
+https://www.geeksforgeeks.org/combinations-with-repetitions/
+
 ```java
 import java.util.Arrays;
 
